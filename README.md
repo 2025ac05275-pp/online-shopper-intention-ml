@@ -62,8 +62,7 @@ Because of this imbalance, metrics such as Recall, F1 Score, AUC, and MCC are al
 ## 3. GitHub Repository Link
 
 GitHub Repository:
-
-`TO_BE_ADDED_AFTER_GITHUB_UPLOAD`
+https://github.com/2025ac05275-pp/online-shopper-intention-ml
 
 ---
 
