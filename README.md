@@ -159,9 +159,7 @@ The application allows the user to:
 * View sample predictions
 
 ### Live Streamlit Application
-
-`TO_BE_ADDED_AFTER_DEPLOYMENT`
-
+https://online-shopper-intention-ml-seswaoq6uwsqcga6c2uojg.streamlit.app
 ---
 
 ## 8. Project Structure
